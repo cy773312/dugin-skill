@@ -5,7 +5,7 @@
 > *"政治首先是世界观之争，其次才是政策之争。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Codex](https://img.shields.io/badge/Codex-Skill-blueviolet)](https://claude.ai/code)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 <br>
@@ -76,7 +76,7 @@
 npx skills add cy773312/dugin-skill
 ```
 
-然后在 Claude Code 里：
+然后在 Codex 里：
 
 ```text
 > 用杜金视角分析北约扩员的长期结构后果
